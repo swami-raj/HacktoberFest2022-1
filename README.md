@@ -1,4 +1,4 @@
-# HacktoberFest2021
+# HacktoberFest2022
 Contribute any thing you want to. 
 - Algorithms
 - Templates
@@ -10,7 +10,7 @@ Contribute any thing you want to.
 
 2. Clone the Forked Repository into your local machine
 ```bash
-git clone https://github.com/redhatpanda/HacktoberFest2021
+git clone https://github.com/redhatpanda/HacktoberFest2022
 ```
 
 3. Add any file you'd like to.
